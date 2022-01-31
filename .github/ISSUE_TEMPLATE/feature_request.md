@@ -26,4 +26,3 @@ ___
 
 Implementing this feature will require:
 - [ ] <!-- placeholder -->
-
