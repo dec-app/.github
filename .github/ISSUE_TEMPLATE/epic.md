@@ -2,7 +2,7 @@
 name: Epic
 about: Issue for tracking a larger feature or task
 title: 'EPIC: '
-labels: ''
+labels: 'Epic 📌'
 assignees: ''
 
 ---

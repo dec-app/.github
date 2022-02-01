@@ -2,7 +2,7 @@
 name: Improvement
 about: An improvement suggestion
 title: 'IMPROVEMENT: '
-labels: "enhancement ✨, suggestion \U0001F914"
+labels: "Enhancement ✨, Suggestion 🤔"
 assignees: ''
 
 ---

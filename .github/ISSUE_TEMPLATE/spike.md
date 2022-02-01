@@ -2,7 +2,7 @@
 name: Spike
 about: Non-implementation work, e.g. research, design
 title: 'SPIKE:'
-labels: "question \U0001F64B"
+labels: "Spike ✴️"
 assignees: ''
 
 ---

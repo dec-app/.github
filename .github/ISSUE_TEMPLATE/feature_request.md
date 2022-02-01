@@ -2,7 +2,7 @@
 name: Feature request
 about: New feature requested
 title: 'FR XX:'
-labels: enhancement ✨
+labels: "Enhancement ✨"
 assignees: ''
 
 ---
