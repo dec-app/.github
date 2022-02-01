@@ -2,11 +2,12 @@
 name: Bug report
 about: Something is broken
 title: 'BUG: '
-labels: "bug \U0001F41B"
+labels: "Bug 🐛"
 assignees: ''
 
 ---
 
+## :bug: Bug report 
 ### Description
 <!-- A clear and concise description of what the bug is. -->
 
@@ -18,7 +19,7 @@ Steps to reproduce the behaviour:
 2. Click on '....'
 
 ___
-### Expected behavior
+### Expected behaviour
 <!-- A clear and concise description of what you expected to happen. -->
 
 <!-- Uncomment sections as needed -->
